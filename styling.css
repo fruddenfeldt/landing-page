@@ -1,0 +1,40 @@
+* { 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#big-box1 {
+    background-color: #1f2937;
+    padding: 16px;
+    display: flex;
+    height: 200px;
+    gap: 8px;
+    color: white;
+}
+
+#hero-header {
+    
+}
+
+#big-box2 {
+    background-color: white;
+    padding: 16px;
+    display: flex;
+    gap: 8px;
+}
+
+#small-box {
+    color: peachpuff;
+    padding: 4px;
+    height: 100px;
+    flex: 1;  
+    border: solid blue;
+    display: flex;
+    border-radius: 10px;
+}
+
+#CTA {
+    background-color: white;
+    padding: 16px;
+    display: flex;
+    gap: 8px;
+}
