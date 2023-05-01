@@ -34,6 +34,20 @@
     border-radius: 10px;
 }
 
+#top-menu {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    margin-top: 0;
+    margin-bottom: 50px;
+    align-items:end
+    justify-content: end;
+}
+
+#top-header {
+    margin-bottom: 50px;
+}
+
 #CTA {
     background-color: white;
     padding: 16px;
