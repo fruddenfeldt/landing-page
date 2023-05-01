@@ -5,11 +5,13 @@
 #big-box1 {
     background-color: #1f2937;
     padding: 16px;
-    display: flex;
+    align-items: center;
+    justify-content: center;
     height: 200px;
-    gap: 8px;
     color: white;
-}
+    display: flex;
+    flex-direction: column;
+  }
 
 #hero-header {
     
